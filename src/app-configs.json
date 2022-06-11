@@ -1,0 +1,18 @@
+{
+	"darkmode":  false,
+	"language":  "en",
+	"recent-reports": [
+		{
+			"report": 1,
+			"location": "F:/ultimate-hacking-tool/src/",
+			"filename": "app-configs.json",
+			"date": "05/24/2022"
+		},
+		{
+			"report": 2,
+			"location": "f:/",
+			"filename": "report_ex_1.docx",
+			"date": "mm/dd/yyyy"
+		}
+	]
+}
