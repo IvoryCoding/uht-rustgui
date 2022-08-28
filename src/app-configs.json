@@ -4,15 +4,17 @@
 	"recent-reports": [
 		{
 			"report": 1,
-			"location": "F:/ultimate-hacking-tool/src/",
+			"location": "f:/",
 			"filename": "app-configs.json",
 			"date": "05/24/2022"
 		},
 		{
 			"report": 2,
 			"location": "f:/",
-			"filename": "report_ex_1.docx",
-			"date": "mm/dd/yyyy"
+			"filename": "example.docx",
+			"date": "06/12/2022"
 		}
-	]
+	],
+	"auto-save": 30,
+	"currently-opened": "f:/test.docx"
 }
